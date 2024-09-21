@@ -1,5 +1,5 @@
 # Blurrit
-blurrit.tekshark.pro
+<a href="https://blurrit.tekshark.pro">blurrit.tekshark.pro</a>
 
 ## About Blurrit
 
