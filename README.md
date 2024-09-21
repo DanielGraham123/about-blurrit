@@ -41,7 +41,7 @@ For inquiries, feedback, or support, please feel free to reach out:
 Stay updated with the latest news and features:
 
 - **GitHub**: [github.com/blurrit](https://github.com/DanielGraham123)
-- **LinkedIn**: [linkedin.com/company/blurrit](https://linkedin.com/in/boaz-daniel-graham)
+- **LinkedIn**: [linkedin.com/in/blurrit](https://linkedin.com/in/boaz-daniel-graham)
 - **Blog**: [blurrit.tekshark.pro/blog](https://tekshark.pro)
 
 ---
